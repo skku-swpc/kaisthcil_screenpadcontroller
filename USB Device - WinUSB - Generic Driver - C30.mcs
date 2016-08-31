@@ -1,0 +1,84 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\jetoile9\Dropbox\Workspace\ScreenPad\ShortPad2\PIC24F\USB Device - WinUSB+ADC\WinUSB Simple Demo - Firmware\Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM\main.o
+Folder=Intermediary
+DeviceName=PIC24FJ256GB106
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|./Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|usb_device.c|usb_function_generic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\Users\jetoile9\Dropbox\Workspace\ScreenPad\ShortPad2\PIC24F\USB Device - WinUSB+ADC\WinUSB Simple Demo - Firmware\Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC24FJ256GB106
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|./Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|usb_device.c|usb_function_generic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\Users\jetoile9\Dropbox\Workspace\ScreenPad\ShortPad2\PIC24F\USB Device - WinUSB+ADC\WinUSB Simple Demo - Firmware\Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM\usb_device.o
+Folder=Intermediary
+DeviceName=PIC24FJ256GB106
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|./Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|usb_device.c|usb_function_generic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\Users\jetoile9\Dropbox\Workspace\ScreenPad\ShortPad2\PIC24F\USB Device - WinUSB+ADC\WinUSB Simple Demo - Firmware\Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM\usb_function_generic.o
+Folder=Intermediary
+DeviceName=PIC24FJ256GB106
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={B1442D91-FF1F-4E60-9714-C39C1BA9DB62}
+LanguageToolLocation=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|./Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|usb_device.c|usb_function_generic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\Users\jetoile9\Dropbox\Workspace\ScreenPad\ShortPad2\PIC24F\USB Device - WinUSB+ADC\WinUSB Simple Demo - Firmware\USB Device - WinUSB - Generic Driver - C30.cof
+Folder=Output
+DeviceName=PIC24FJ256GB106
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={6836D8CA-42BB-48FB-9E77-3F0AA8005073}
+LanguageToolLocation=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)|./Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|usb_device.c|usb_function_generic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\Users\jetoile9\Dropbox\Workspace\ScreenPad\ShortPad2\PIC24F\USB Device - WinUSB+ADC\WinUSB Simple Demo - Firmware\USB Device - WinUSB - Generic Driver - C30.hex
+Folder=Output
+DeviceName=PIC24FJ256GB106
+LanguageToolSuiteID={9BCCB495-CD65-480A-BA76-63D8E78B117F}
+LanguageToolID={6836D8CA-42BB-48FB-9E77-3F0AA8005073}
+LanguageToolLocation=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)|./Objects\USB Device - WinUSB - Generic Driver - C30 - PIC24FJ256GB110 PIM||$(AINDIR)||$(INCDIR)|..\..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\USB Device - WinUSB - Generic Driver Demo\WinUSB Simple Demo - Firmware;..\..\Microchip\Include;..\..\..\Include;..\..\Include;.||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|usb_device.c|usb_function_generic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{B1442D91-FF1F-4E60-9714-C39C1BA9DB62}=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-gcc.exe
+tool_loc{6836D8CA-42BB-48FB-9E77-3F0AA8005073}=C:\Program Files\Microchip\xc16\v1.20\bin\xc16-ld.exe
